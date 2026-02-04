@@ -31,7 +31,11 @@ This is a personal portfolio website showcasing Wali Khan's skills, technologies
 - Spring Boot (mentioned in portfolio projects)  
 - MySQL, MongoDB, Oracle (mentioned in skills and portfolio)  
 
+<<<<<<< HEAD
 
+=======
+---
+>>>>>>> fe909ffeb7b7ae69e980423d133a53cbdc344da1
 
 ## How to Use this 
 
